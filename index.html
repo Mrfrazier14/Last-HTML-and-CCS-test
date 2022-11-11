@@ -18,14 +18,41 @@
 <table>
   <thead>
     <tr>
-      <th>
+      <th colspan="2">
         <h1>Wine Festival Schedule</h1>
       </th>
     </tr>
     <tr>
-
+      <th>
+        <h2>Time</h2>
+      </th>
+      <th>
+        <h2>Event</h2>
+      </th>
     </tr>
   </thead>
+  <tbody>
+  <tr>
+    <td class="left"> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td class="left"> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td class="left"> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td class="left"> ... </td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td class="left"> ... </td>
+    <td> ... </td>
+  </tr>
+</tbody>
 </table>
   </div>
   
