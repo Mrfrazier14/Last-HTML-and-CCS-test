@@ -15,7 +15,18 @@
   </header>
   
   <div class="container">
+<table>
+  <thead>
+    <tr>
+      <th>
+        <h1>Wine Festival Schedule</h1>
+      </th>
+    </tr>
+    <tr>
 
+    </tr>
+  </thead>
+</table>
   </div>
   
   <footer>
